@@ -1,1 +1,3 @@
 # R25EF126
+
+My name is Lokjith, studying engineering, and this repository is for my GitHub portfolio activities.
