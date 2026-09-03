@@ -11,5 +11,7 @@ I have basic programming skills in C and Python.
 I am interested in programming and learning and new technologies. 
 
 
+## goal
 
+contribute to generative AI
 
