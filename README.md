@@ -6,6 +6,10 @@ My name is Lokjith K. M. I am a Computer Science Engineering student. I am inter
 
 I have basic programming skills in C and Python.
 
+## Interset
+
+I am interested in programming and learning and new technologies. 
+
 
 
 
